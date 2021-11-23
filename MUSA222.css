@@ -1,0 +1,171 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.App_Register{
+	background-image: url("musa.jpg");
+	height: 657px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+.App_Register .App{
+
+	width: 80%;
+	height: 400px;
+	background-color: rgba(0, 0, 0, .4);
+	margin: 115px 134.906;
+	float: left;
+	padding: 10px;
+
+
+}
+.App_Register .App .Sign_Up{
+	width: 50%;
+	height: 100%;
+	padding: 15px;
+	float: left;
+
+}
+.App_Register .App .Sign_Up h1{
+	text-align: center;
+	color: #fff;
+
+
+
+}
+
+.App_Register .App .Sign_Up form input{
+	display: block;
+	width: 100%;
+	padding: 5px;
+	margin:top 20px;
+	box-sizing: border-box;
+	margin-bottom: 15px;
+	background: none;
+	border: none;
+	border-bottom: 3px solid #fff;
+	outline: none;
+	color: #fff;
+
+
+}
+
+.App_Register .App .Sign_Up form input[type="submit"]{
+	background-color: rgb(6, 6, 156);
+	border-radius: 10px;
+	color: #fff;
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+
+
+
+}
+
+.App_Register .App .Login{
+	width: 45%;
+	float: left;
+
+
+
+}
+
+.App_Register .App .Login h1{
+	text-align: center;
+	color: #fff;
+
+}
+
+.App_Register .App .Login form input{
+	display: block;
+	width: 100%;
+	padding: 5px;
+	margin:top 20px;
+	box-sizing: border-box;
+	margin-bottom: 15px;
+	background: none;
+	border: none;
+	border-bottom: 3px solid #fff;
+	outline: none;
+	color: #fff;
+
+
+}
+.App_Register .App .Login form{
+	margin-top: 122px;
+
+}
+
+.App_Register .App .Login form input[type="submit"]{
+	background-color: rgb(6, 6, 156);
+	border-radius: 10px;
+	color: #fff;
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+
+
+
+}
+
+
+::-webkit-input-placeholder{
+   color: #fff;
+   font-size: 20px;
+   transition: opaccity .5s ease-in-out;
+   
+}
+::moz-placeholder{
+	color: #fff;
+	font-size: 20px;
+	transition: opaccity .5s ease-in-out;
+	
+
+}
+:-ms-input-placeholder{
+	color: #fff;
+	font-size: 20px;
+	
+	
+
+
+}
+:-moz-placeholder{
+	color: #fff;
+	font-size: 20px;
+	
+
+
+
+	
+}
+
+.App_Register .App .Login form input[type="submit"]:hover{
+	background-color: yellow;
+	width: 50%;
+	color: red;
+ 	margin-left: 150px;
+ 	font-size: 30px;
+ 	border-radius: 30px;
+
+
+
+
+}
+.App_Register .App .Sign_Up form input[type="submit"]:hover{
+	background-color: yellow;
+	width: 50%;
+	color: red;
+ 	margin-left: 150px;
+ 	font-size: 30px;
+ 	border-radius: 30px;
+
+
+
+}
+
+
+
